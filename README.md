@@ -1,4 +1,7 @@
-### Hi there! My name is Rafael Goncalves Fernandes 👋
+Welcome to my Git Space!
+
+My name is Rafael Goncalves Fernandes 😎
+
 
 
 - 🔭 I’m currently working on Data Analytics in Healthcare area
@@ -6,11 +9,12 @@
 - 📫 How to reach me: rafaelg_fernandes@hotmail.com
 - 😄 Pronouns: he/him
 
-
+##
+  
 <div align="center">
   <a href="https://github.com/rafagfe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafagfe&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfe&layout=compact&langs_count=7&theme=prussian"/>
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=rafagfe&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfe&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -30,7 +34,7 @@
   src="https://picrew.me/shareImg/org/202206/137904_A812kBpK.png?width=676&height=676">
 </div>
 
-  ##
+##
  
 <div> 
   <a href="https://www.linkedin.com/in/rafael-g-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
