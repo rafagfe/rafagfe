@@ -26,7 +26,8 @@
   <img align="center" alt="Rafa-googledatastudio" height="30" width="40" src="https://api.iconify.design/logos/google-data-studio.svg?color=white">
   <img align="center" alt="Rafa-aws" height="30" width="40" src="https://api.iconify.design/logos/aws.svg?color=white">
   <img align="center" alt="Rafa-excel" height="30" width="40" src="https://api.iconify.design/ri/file-excel-2-line.svg?color=white">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"           src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-gif" height="150" style="border-radius:50px;"           
+  src="https://picrew.me/shareImg/org/202206/137904_A812kBpK.png?width=676&height=676">
 </div>
 
   ##
