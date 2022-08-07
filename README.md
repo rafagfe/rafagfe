@@ -34,12 +34,13 @@ My name is Rafael Goncalves Fernandes 😎
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Pentaho-07C160?style=for-the-badge&logo=pentaho&logoColor=white" />
   <img align="center" alt="airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <img align="center" alt="power bi" src="https://img.shields.io/badge/Powerbi-02569B?style=for-the-badge&logo=powerbi&logoColor=yellow" />
   <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="data studio" src="https://img.shields.io/badge/datastudio-07C160?style=for-the-badge&logo=datastudio&logoColor=white" />
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
   
 </div><br/>
 
