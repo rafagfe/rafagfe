@@ -9,10 +9,10 @@ Hello! My name is Rafael Goncalves Fernandes. I'm a passionate Data Engineer and
 - 😄 **Pronouns:** He/Him
 
 ## Connect with Me
-<a href="https://www.linkedin.com/in/rafael-g-fernandes/" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-g-fernandes/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://portfolio-rafael-g-fernandes.netlify.app/" target="_blank">
+<a href="https://portfolio-rafael-g-fernandes.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
 </a>
 
