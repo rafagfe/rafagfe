@@ -4,8 +4,7 @@ My name is Rafael Goncalves Fernandes 😎
 
 
 - 🔭 I’m currently working on Data Analytics in Healthcare area.
-- 🌱 I’m currently focused studying more about: AI, Data Science, Deep Learning and Statistic.
-- 📃 I'm learning as well other technologies like: Docker, HTML, CSS and JavaScript.
+- 🌱 I’m currently focused studying more about: Data Engineer, AI, Data Science, Deep Learning and Statistic.
 - 📫 How to reach me: rafaelg_fernandes@hotmail.com | rgf.consultoriabi@gmail.com
 - 😄 Pronouns: he/him
 
